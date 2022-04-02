@@ -2,10 +2,10 @@
 title:              "sprouts"
 description:        "welcome to my digital scrapbook!"
 author_name:        "ramy zhang" # change this to your name
-logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           https://avatars.githubusercontent.com/u/34625981?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://ramyzhang.github.io # main url
+url:                https://ramyzhang.com # main url
 baseurl:            /blog
 permalink:          /:title # Post permalink
 timezone:           America/Toronto # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones

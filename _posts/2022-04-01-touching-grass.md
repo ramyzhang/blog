@@ -1,0 +1,25 @@
+---
+title: touching grass (or, why i love film)
+updated: 2022-04-01 15:56
+---
+| ![piggybacks](https://live.staticflickr.com/65535/51976901875_87873c8404_h.jpg) |
+|:--:|
+| *mom giving a piggyback at the lake in summer 2020* |
+
+i learned to love taking walks during my stay in paris, when i was 19. paris is the easiest place to fall in love with walks. the entire city is bursting to the brim with little warm moments, gorgeous architecture, carefully shaped gardens. there's so little surface area that it sometimes feels like some omniscient designer tried their very best to squeeze all the very best things into the least amount of space possible. stepping out of the same big entryway every few days into the orange autumn sun, beauty everywhere around you - your feet carry you forwards without even willing them to. i watched others. i watched the sky. and i breathed a little. whenever i left my tiny apartment, i was leaving behind my mind.
+
+| ![plaza](assets/2022-04-01/plaza.jpg) | ![plaza](assets/2022-04-01/balcon.jpg) | ![plaza](assets/2022-04-01/cemetery.jpg) |
+
+when i came back to toronto, back to my home in suburban markham, i stopped taking walks for a while - as much as i love my hometown, nothing could compare to those romantic balconies and my now-favourite deep blue roofing. in comparison, this place feels almost dreary, the utilitarian square edges of the office buildings sapping out the warmth straight from the air. so i stayed inside.
+for a while, this wasn't so bad - in canada, ceilings are higher, spaces are larger, and with my parents home, i didn't feel mired in the trappings of my own head as i did while living alone in paris. i could breathe, for a while. i only really began to take walks again when my mom would occasionally drag me, kicking and screaming, out of the house. and we would talk. usually about the same things we always talk about - but the conversations took on a different quality, outside. words came more freely simply by the merit of being spoken out in the open air. we could say them, and acknowledge them, then watch them float away gently into the cloudless sky, threading between the telephone tower lines. the sharp edges were softened when they were left to fend alone in the vastness of canadian suburbia. i think that's what's so sweet about this place.
+
+| ![plaza](assets/2022-04-01/phatmoon.jpg) | ![plaza](assets/2022-04-01/blur.jpg) | ![plaza](assets/2022-04-01/crescentmoon.jpg) |
+
+what's more, with a lot of space comes a lot of wilderness that goes unchecked, and this is the most sweet thing of all. along with the unchanging stoicism of suburbian architecture comes the ever-changing nature of weeds pushing their way through cracks in the pavement, trail walks that change day-by-day, rivers swelling and shrinking over the seasons. the smallest details sharpen amid the monotony of the physical act of walking. the world around me colours deep in saturation. one thing that's wonderful about being a voluntary recluse, sometimes, is that whenever i do face the world, it's as if it's the very first time, every time.
+
+when my mom asked me why i was getting so excited about film photography (my dad scoffing at my very first camera purchase - essentially a toy, a reusable disposable coloured bright mustard yellow), i had no idea how to answer her. it must be so strange, to live through a time when there was nothing but analog photography and become later freed by the conveniences of digital, only to watch your child voluntarily regress back into the limiting nature of this older medium. i reached for the first reason that came to mind, the most common reason: that it was the scarcity of it. how, from the delayed gratification of receiving your photos weeks later (or years later, if you forget about the roll), all the way to the (now-ridiculous) expense of film itself, each part of analog photography makes you feel like the captured moment is something that can be truly treasured.
+
+its greatest charm for me is that film feels the same way to me that taking walks does. and even better, i can do both at the same time.
+clicking the shutter makes time slow down, like how it slows when i'm outside. when i'm with my boyfriend, my friends, when i'm leaving campus tiredly after a long day of lectures - and i pull out my silly little mustard yellow camera, and take a silly little photo - i slow down time. this single frame, captured in a supernova of chemical reactions in my camera, is the only physical thing i will ever retain from this moment, for eternity. i'm pulled out of my mind, my entire being tunnelling into that tiny piece of the world framed by the viewfinder, just for that moment. and so, like that, i breathe in - the shutter clicks - and i continue walking.
+
+> i'm very curious as to how my feelings towards film will change as i develop more of a taste as well as more competence in the actual art of photography. as you can probably tell, none of the photos here are particularly any good :P will that precious feeling of scarcity of each image diminish over time, as i accumulate more and more of them, and get better at taking them?
