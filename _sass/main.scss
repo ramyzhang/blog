@@ -79,7 +79,9 @@ blockquote {
   margin: 40px 0;
   padding: 5px 30px;
   background: #f2d6c7;
+  font-family: Consolas, monaco, monospace;
 }
+
 .logo {
   position: relative;
   margin: 0 auto 35px;
@@ -353,7 +355,7 @@ section {
       a {
         text-decoration: none;
         border: 0;
-        color: #000;
+        color: #59302d;
         box-sizing: border-box;
       }
       .post-date {
@@ -362,14 +364,14 @@ section {
       }
       span {
         display: inline-block;
-        color: #757575;
+        color: #59302d;
         letter-spacing: 1px;
         text-transform: uppercase;
       }
       @media (min-width: 992px) {a {
           border-bottom: 2px solid transparent;
           &:hover {
-            border-color: #000;
+            border-color: #59302d;
           }
         }
       }
