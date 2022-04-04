@@ -7,6 +7,8 @@ html {
   margin: 0;
   padding: 0;
   height: 100%;
+  background-image: linear-gradient(to bottom right, #ebcecc, #cf8d5f);
+  background-attachment: fixed;
 }
 body {
   font-size: 14px;
@@ -14,7 +16,7 @@ body {
   font-weight: normal;
   font-style: normal;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #333333;
+  color: #59302d;
   padding: 20px;
   margin: 0;
   -webkit-font-smoothing: antialiased;
@@ -73,10 +75,10 @@ mark {
   padding: 0 5px;
 }
 blockquote {
-  border-left: 5px solid #ccc;
+  border-left: 5px solid #59302d;
   margin: 40px 0;
   padding: 5px 30px;
-  background: #eee;
+  background: #f2d6c7;
 }
 .logo {
   position: relative;
@@ -100,7 +102,7 @@ blockquote {
     display: inline-block;
     text-align: center;
     line-height: 100px;
-    border: 5px solid #fff;
+    border: 5px solid #59302d;
     box-sizing: border-box;
     &:hover,
     &:focus {
@@ -179,6 +181,7 @@ pre,
 .code,
 .footnotes {
   font-family: Consolas, monaco, monospace;
+  color: #59302d;
 }
 code {
   color: #f14e32;
@@ -209,12 +212,12 @@ table {
   table-layout: fixed;
   margin: 45px 0;
   thead {
-    background: #f2f2f2;
+    background: #59302d;
   }
   th {
     text-align: left;
     padding: 8px 10px;
-    border-bottom: 15px solid #fff;
+    border-bottom: 15px solid #59302d;
   }
   td {
     padding: 4px 0;
@@ -228,14 +231,15 @@ article {
   margin: 0 auto;
   h1.title {
     line-height: 1.4em;
+    color: #59302d;
     text-align: center;
     font-size: 1.4em;
   }
   .divider {
     background: #ddd;
-    background: -webkit-gradient(linear,left top,right top,from(rgba(255,255,255,0)),color-stop(#ccc),to(rgba(255,255,255,0)));
-    background: -webkit-linear-gradient(left,rgba(255,255,255,0),#ccc,rgba(255,255,255,0));
-    background: linear-gradient(to right,rgba(255,255,255,0),#ccc,rgba(255,255,255,0));
+    background: -webkit-gradient(linear,left top,right top,from(rgba(255,255,255,0)),color-stop(#59302d),to(rgba(255,255,255,0)));
+    background: -webkit-linear-gradient(left,rgba(255,255,255,0),#59302d,rgba(255,255,255,0));
+    background: linear-gradient(to right,rgba(255,255,255,0),#59302d,rgba(255,255,255,0));
     height: 1px;
     margin: 2em 0;
   }
@@ -324,7 +328,7 @@ article {
 }
 .footer {
   margin-top: 50px;
-  color: #777;
+  color: #59302d;
   a {
     border: none;
     font-weight: bold;
