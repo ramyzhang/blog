@@ -3,19 +3,15 @@ layout: page
 title: about
 ---
 
-hi there, and welcome to my digital scrapbook! very much informal, i'd like to use this corner of the internet to present a curated set of outtakes from my notes app, as well as conversations with friends.
+hi there! welcome! wow, you've found my blog. i mean, yeah, the link is *literally* there on my website, but it's always a lovely surprise whenever someone clicks into it.
 
-just like all the other creative disciplines i've explored, i often find that my ideas gain more clarity when i'm writing _**to**_ someone, rather than just blathering off in my own head. at the end of the day, everything i do and make is to ask someone:
+very much informal, i'd like to use this corner of the internet to publish some outtakes from my notes app, conversations with friends, and simply to practice writing and polishing ideas.
 
-> is this reaching you?  
-do you hear me?  
-please tell me you hear me  
-tell me you feel this too  
-tell me this made you feel  
+i often find that my ideas gain more clarity when i'm writing _**to**_ someone, as compared to when i'm just blathering off in my own head. i think, and then i write about it, and writing about it helps me think about it better.
 
-numerous times, it's always been other people's writing that has saved me from feeling alone, saved me from feeling unheard.
+numerous times, it's always been other people's writing that has saved me from feeling alone, saved me from feeling unheard. i hope that by sharing some of my own thoughts, that i can similarly comfort and reassure the one who stumbles across them.
 
-of course, other than creative writing, i will also be talking about some things i've been studying, work i love, and projects i've been working on. please dm me on [twitter](https://twitter.com/ramyjzhang) if anything here has connected with you!
+other than creative writing, i will also be talking about some things i've been studying, work i love, and projects i've been working on. please dm me on [twitter](https://twitter.com/ramyjzhang) if anything here has connected with you!
 
 warmly,
 
